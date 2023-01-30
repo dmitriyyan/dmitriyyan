@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I am a web development enthusiast with a background in economics. With over three years of experience in web development, I have honed my skills in React and Node.js. My passion for programming and information technology stems from my strong desire to grow and develop in this field. I am constantly seeking new opportunities to learn and expand my skillset. I completed my master degree in economics, but found myself drawn to the world of coding and web development.
+I am a web development enthusiast with a background in economics. With over three years of experience in web development, I have honed my skills in React and Node.js. I completed my master degree in economics, but found myself drawn to the world of coding and web development. My passion for programming and information technology stems from my strong desire to grow and develop in this field. I am constantly seeking new opportunities to learn and expand my skillset.
 
 * ✉️  You can contact me at [dmitriy.ya@protonmail.com](mailto:dmitriy.ya@protonmail.com)
 * 🤝  I'm open to collaborating on interesting projects
@@ -32,7 +32,3 @@ I am a web development enthusiast with a background in economics. With over thre
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/dmitriyyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/dmitriyyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
