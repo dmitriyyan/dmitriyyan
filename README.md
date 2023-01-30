@@ -6,7 +6,6 @@ Web developer
 
 I am a web development enthusiast with a background in economics. With over three years of experience in web development, I have honed my skills in React and Node.js. My passion for programming and information technology stems from my strong desire to grow and develop in this field. I am constantly seeking new opportunities to learn and expand my skillset. I completed my master degree in economics, but found myself drawn to the world of coding and web development.
 
-* 🌍  I'm based in Izmir, Turkey
 * ✉️  You can contact me at [dmitriy.ya@protonmail.com](mailto:dmitriy.ya@protonmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
