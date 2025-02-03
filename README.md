@@ -6,7 +6,9 @@ Web developer
 
 I am a web development enthusiast with a background in economics. With over 7 years of experience in web development, I have honed my skills in both frontend and backend. I completed my master degree in economics, but found myself drawn to the world of coding and web development. My passion for programming and information technology stems from my strong desire to grow and develop in this field. I am constantly seeking new opportunities to learn and expand my skillset.
 
-* ✉️  You can contact me at [dmitriy.ya@protonmail.com](mailto:dmitriy.ya@protonmail.com)
+✉️  You can contact me at
+* [dmtr.ianshkvch@gmail.com](mailto:dmtr.ianshkvch@gmail.com)
+* [LinkedIn](www.linkedin.com/in/dmitrii-ianushkevich-86908b34b)
 
 ### Skills
 
