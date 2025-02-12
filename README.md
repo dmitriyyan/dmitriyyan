@@ -8,7 +8,7 @@ I am a web development enthusiast with a background in economics. With over 7 ye
 
 ✉️  You can contact me at
 * [dmtr.ianshkvch@gmail.com](mailto:dmtr.ianshkvch@gmail.com)
-* [LinkedIn](www.linkedin.com/in/dmitrii-ianushkevich-86908b34b)
+* [LinkedIn](https://www.linkedin.com/in/dmitrii-ianushkevich-86908b34b)
 
 ### Skills
 
